@@ -1,0 +1,9 @@
+# ignoriraj sav sadržaj /files foldera
+files/
+
+# ignoriraj sve datoteke koje imaju ekstenziju sa .png i .txt
+*.txt
+*.png
+
+# ignoriraj sve .txt datoteke unutar nekog foldera
+putanja_do_foldera/*.txt
